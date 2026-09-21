@@ -6,7 +6,7 @@ An end-to-end analytics project: raw property-sales data is cleaned and transfor
 
 | Overview | Trends & Insights |
 |---|---|
-| ![Overview](images/dashboard_overview.png) | ![Trends](images/dashboard_trends_insights.png) |
+| ![Overview](dashboard_overview.png) | ![Trends](images/dashboard_trends_insights.png) |
 
 ## Tools
 
