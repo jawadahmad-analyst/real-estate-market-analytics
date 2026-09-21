@@ -6,7 +6,7 @@ An end-to-end analytics project: raw property-sales data is cleaned and transfor
 
 | Overview | Trends & Insights |
 |---|---|
-| ![Overview](dashboard_overview.png) | ![Trends](images/dashboard_trends_insights.png) |
+| ![Overview](dashboard_overview.png) | ![Trends](dashboard_trends_insights.png) |
 
 ## Tools
 
@@ -56,4 +56,5 @@ Property sales records (2009–2022) for Connecticut localities. Add the dataset
 
 ## Author
 
-**Jawad Ahmad** – BBA Finance graduate | Financial Analyst / FP&A
+**Jawad Ahmad** – BBA Finance graduate | Financial Analyst / FP&A / Data Analyst
+**LinkedIn** - (https://www.linkedin.com/public-profile/settings/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact_info%3BgFflSYtfQpiV6E1AKFgKqg%3D%3D
