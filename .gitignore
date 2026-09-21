@@ -1,0 +1,12 @@
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Temp files
+*.tmp
+*.bak
+
+# Raw data dumps (large) - keep only samples in /data
+data/raw/

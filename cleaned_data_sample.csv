@@ -1,0 +1,11 @@
+"Sale Date","Locality","Sale Price","Estimated Value","Tax Rate","Property Type","Residential Status","Direction Facing","Rooms","Bathrooms","Carpet Area"
+"2009-01-02","Waterbury","185000.0","111440.0","1.025953","Single Family","Detached House","South",3,3,"996.0"
+"2009-01-02","Waterbury","105000.0","50540.0","1.025953","Single Family","Detached House","East",3,1,"951.0"
+"2009-01-02","Norwalk","1000000.0","571060.0","1.025953","Single Family","Detached House","South",3,2,NULL
+"2009-01-02","Bridgeport","272900.0","4775276.0","1.025953","Single Family","Detached House","East",3,1,"971.0"
+"2009-01-04","Norwalk","370000.0","208880.0","1.025953","Single Family","Detached House","South",3,2,"1063.0"
+"2009-01-04","Waterbury","220000.0","83300.0","1.025953","Two Family","Duplex","South",4,4,"1471.0"
+"2009-01-05","Greenwich","2860000.0","2095100.0","1.025953","Single Family","Detached House","East",3,1,"963.0"
+"2009-01-05","Norwalk","340000.0","186410.0","1.025953","Single Family","Detached House","East",3,2,"933.0"
+"2009-01-05","Greenwich","1990000.0","1162140.0","1.025953","Single Family","Detached House","North",3,1,NULL
+"2009-01-08","Waterbury","75000.0","56070.0","1.025953","Two Family","Duplex","West",4,2,"1373.0"
